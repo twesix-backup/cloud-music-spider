@@ -1,0 +1,8 @@
+{
+  "name": "cloud-music-spider",
+  "version": "0.0.1",
+  "dependencies": {
+    "mongodb": "^3.0.1",
+    "tablestore": "^4.0.10"
+  }
+}
